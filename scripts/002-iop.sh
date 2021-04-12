@@ -2,7 +2,7 @@
 # 002-iop.sh by Francisco Javier Trujillo Mata (fjtrujy@gmail.com)
 
 ## Download the source code.
-REPO_URL="https://github.com/ps2dev/ps2toolchain-iop"
+REPO_URL="https://github.com/SpiceDev/ps2toolchain-iop"
 REPO_FOLDER="ps2toolchain-iop"
 
 # Checking if a specific TAG has been selected, it is passed using parameter $1

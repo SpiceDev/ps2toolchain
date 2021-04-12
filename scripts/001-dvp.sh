@@ -2,7 +2,7 @@
 # 001-dvp.sh by Francisco Javier Trujillo Mata (fjtrujy@gmail.com)
 
 ## Download the source code.
-REPO_URL="https://github.com/ps2dev/ps2toolchain-dvp"
+REPO_URL="https://github.com/SpiceDev/ps2toolchain-dvp"
 REPO_FOLDER="ps2toolchain-dvp"
 
 # Checking if a specific TAG has been selected, it is passed using parameter $1
